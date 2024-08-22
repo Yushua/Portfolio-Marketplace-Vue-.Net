@@ -1,5 +1,5 @@
-# Portfolio-Marketplace-react-nestjs
- create a marketplace in react and nestjs
+# Portfolio-Marketplace-Vue-.Net
+ create a marketplace in Vue and .Net
 
 - login system (simple)
 type of users
