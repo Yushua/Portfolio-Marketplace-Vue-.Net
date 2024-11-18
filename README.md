@@ -1,5 +1,8 @@
-# Portfolio-Marketplace-Vue-.Net
- create a marketplace in Vue and .Net
+# Portfolio-Marketplace-Angular-.Net
+ create a marketplace in Angular/Vue and .Net
+
+the focus is to learn mroe about Angular and have a solid basis when starting a project.
+
 
 - login system (simple)
 type of users
